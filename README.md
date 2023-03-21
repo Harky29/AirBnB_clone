@@ -257,7 +257,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```bash
 (hbnb) create User
 1afa163d-486e-467a-8d38-3040afeaa1a1
-(hbnb) update User 1afa163d-486e-467a-8d38-3040afeaa1a1 email "umarfaruqadam03@gmail.com"
+(hbnb) update User 1afa163d-486e-467a-8d38-3040afeaa1a1 email "uoluwaraphael16@gmail.com"
 (hbnb) show User 1afa163d-486e-467a-8d38-3040afeaa1a1
 [User] (s) [User] (1afa163d-486e-467a-8d38-3040afeaa1a1) {'id': '1afa163d-486e-467a-8d38-3040afeaa1a1', 'created_at': datetime.datetime(2022, 11, 24, 23, 42, 10, 502157), 'updated_at': datetime.datetime(2022, 11, 24, 23, 42, 10, 502186), 'email': 'Umarfaruqadam03@gmail.com'}
 (hbnb)
@@ -265,20 +265,12 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Umar Faruq Adam</summary>
+    <summary>Ilelaboye Raphael Oluwadunsin</summary>
     <ul>
-    <li><a href="https://www.github.com/uniqueel">Github</a></li>
-    <li><a href="mailto:umarfaruqadam03@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/harky29">Github</a></li>
+    <li><a href="mailto:oluwaraphael16@gmail.com">e-mail</a></li>
     </ul>
 </details>
-<details>
-    <summary>Adeleke Adeola</summary>
-    <ul>
-    <li><a href="https://www.github.com/Queenadeweb03">Github</a></li>
-    <li><a href="mailto:adelekeadeola1430@gmail.com">e-mail</a></li>
-    </ul>
-</details>
-
 
 
 
